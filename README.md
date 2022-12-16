@@ -98,6 +98,10 @@ Web Security Dojo : https://sourceforge.net/projects/websecuritydojo/
 
 # Wath I learn in the process
 
+Installed, configured and maintained Oracle VM VirtualBox in ethical hacking operations. And conducted penetration testing and vulnerability assessments using virtual machines.
+
+I became familiar with different operating systems like Windows, Linux (Debian-based and Arch-based), and Android.
+
 Knowledgeable about OSINT best practices and protocols, such as the use of privacy settings, data protection, and online forensics. I use tools like : Maltego, Shodan, Google Dorks, TheHarvester, OpenVAS
 
 Ability to analyze and interpret network traffic using packet sniffers, such as Wireshark.
@@ -112,14 +116,17 @@ I practice various attacks against Windows operating systems, such as EternalBlu
 
 I use frameworks like Metasploit, TheFatRat, Evil-Droid (for Android) and REMCOS (Windows RAT) to exploit the vulnerabilities of target machines by generating and setting payloads and malicious packets to launch attacks.
 
-I am learning how to embed malicious code into apps, images and other file types.
+I have learned how to embed malicious code into apps, images and other file types.
 
+Experienced in configuring and troubleshooting Apache Tomcat servers for web applications.
 
-Malware hiding into apps and images
+For training on web application vulnerability and bug bounties, I use Metasploitable, ShellShock, Web Security Dojo, and OWASP Broken Web Application machine. Thanks to these virtual machines, I was able to discover how to exploit the following vulnerabilities: 
 
-Tools : Metasploit, TheFatRat,       Evil-Droid, REMCOS (Windows RAT)
-Virtualization : Oracle VM VirtualBox, QEMU/KVM
-Operating System: Windows, Linux(Kali, Parrot OS, Black Arch)
-Experience with Apache Tomcat and Flask server 
-Web tehnologies : HTML, CSS, JavaScript, XML
-Database : Oracle, MySQL, SQLyte , SQL queries
+  * SQL injection
+  * XSS injection
+  * HTML injection
+  * Man in the Midel Attack
+  * Broken Access Control
+  * Server-side Request Forgery
+  * Identification and Authentication Failures
+  * 
