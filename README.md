@@ -25,7 +25,21 @@ Oracle VM Virtual Box : https://www.virtualbox.org/wiki/Downloads
 10. Use the results of your tests to improve your ethical hacking skills.
 
 
-Etical Hacking Tools : 
+
+# Advantages of using a Home Lab locali are :
+
+1. Cost-Effective: One of the main benefits of using a local VM home lab for ethical hacking is its cost-effectiveness. It is much cheaper to set up and maintain a home lab than to purchase and maintain expensive hardware and software.
+
+2. Flexibility: With a home lab, a hacker can easily customize the environment to their exact needs. This makes it much easier to learn different techniques and develop new skills.
+
+3. Security: By keeping the lab local, the hacker can keep their data and activities secure from outside intrusions and vulnerabilities.
+
+4. Accessibility: A local VM home lab can be accessed from anywhere with an internet connection, making it ideal for those who travel or work from home.
+
+5. Scalability: The lab can easily be expanded as needed to accommodate more machines or other components. This allows for the flexibility to experiment with different techniques and technologies.
+
+# My Home Lab : 
+VM attacker
 Debian Linux :
 Kali Linux : https://www.kali.org/get-kali/
 Parrot OS : https://www.parrotsec.org/download/
@@ -46,4 +60,6 @@ OWASP Broken Web Application : https://sourceforge.net/projects/owaspbwa/
 ShellShock : https://www.pentesterlab.com/exercises/cve-2014-6271/course
 Metasploitable : https://sourceforge.net/projects/metasploitable/
 Web Security Dojo : https://sourceforge.net/projects/websecuritydojo/
+
+# Wath I learn in the process
 
