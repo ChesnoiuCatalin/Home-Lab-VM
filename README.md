@@ -106,8 +106,16 @@ Ability to quickly identify open ports and services using tools such as nmap, Ne
 
 Network scanning using tools such as NMAP and Nessus can help identify potential vulnerabilities in a system. Once identified, these vulnerabilities can be patched or addressed to protect the system from potential security threats.
 
-Knowledgeable in Active Directory, group policies, and network protocols. I am using Windows Server 2019 and Windows 10 machines to learn more about Active Directory, how to administer a local network, and how to use this knowledge in a penetration test as an "attacker".
+Knowledgeable in Active Directory, group policies, and network protocols. To gain a better understanding of Active Directory, I use a Windows Server 2019 and a Windows 10 machine to learn how to administer a local network and how to apply this knowledge in a penetration test as an "attacker".
 
+I practice various attacks against Windows operating systems, such as EternalBlue and DoublePulsar, on both Windows 7 and Windows 10 machines.
+
+I use frameworks like Metasploit, TheFatRat, Evil-Droid (for Android) and REMCOS (Windows RAT) to exploit the vulnerabilities of target machines by generating and setting payloads and malicious packets to launch attacks.
+
+I am learning how to embed malicious code into apps, images and other file types.
+
+
+Malware hiding into apps and images
 
 Tools : Metasploit, TheFatRat,       Evil-Droid, REMCOS (Windows RAT)
 Virtualization : Oracle VM VirtualBox, QEMU/KVM
