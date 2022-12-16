@@ -46,15 +46,33 @@ VM attacker :
 
 ![Screenshot_21](https://user-images.githubusercontent.com/56380723/208122579-09f6b6e5-0f97-4947-adc3-76c1e92ce3ca.png)
 
-Debian Linux :
+Debian-based Linux :
 
 Kali Linux : https://www.kali.org/get-kali/
+
+Kali Linux is a Debian-based Linux distribution designed for digital forensics, penetration testing, and security auditing. It includes a large collection of security-related tools, such as port scanners, password crackers, and wireless analysis tools, that can be used to assess the security of network systems. It is maintained and funded by Offensive Security Ltd.
+
 Parrot OS : https://www.parrotsec.org/download/
+
+Parrot OS is a Linux distribution based on Debian and focused on security, privacy, and development. It comes with a variety of tools designed for ethical hacking, penetration testing, computer forensics, reverse engineering, and privacy protection. It is available in both 32 and 64-bit versions, and is designed to be lightweight and easy to use.
+
 Ziion OS : https://www.ziion.org/
+
+Ziion OS is a decentralized, smart contract audit platform that provides users with the tools and resources they need to identify, investigate, and report on the security of their smart contracts. Ziion OS offers a range of features, such as automated smart contract scanning, real-time monitoring, and an interactive dashboard. With these features, users can easily identify vulnerabilities and potential risks in their smart contract code, allowing them to take action and protect their data.
+
 Dragon OS : https://sourceforge.net/projects/dragonos-focal/
+
+Dragon OS is an open-source radio signal processing software designed to provide an intuitive and efficient workflow for manipulating and analyzing radio signals. It is built on the Python programming language and utilizes the NumPy and SciPy libraries to provide a comprehensive suite of signal processing tools. Dragon OS is capable of handling a wide variety of signal types such as FM, AM, SSB, and CW. It also offers a range of features such as power spectrum plotting, frequency estimation, signal modulation, and signal noise reduction.
+
 OSINT TraceLab : https://www.tracelabs.org/initiatives/osint-vm
-Arch Linux :
+
+OSINT Trace Lab is an open source intelligence (OSINT) tool designed to help security professionals and researchers trace malicious actors and find valuable evidence for investigations. It provides an easy-to-use graphical user interface, allowing users to quickly and easily query multiple online data sources, such as social networks, WHOIS records, domain registries, and more. It also includes powerful analytics and visualization tools to help users uncover valuable insights.
+
+Arch-based Linux :
+
 Black Arch : https://blackarch.org/downloads.html
+
+BlackArch Linux is an open-source Linux distribution for penetration testing and security research. It is based on Arch Linux, and is specifically designed for security professionals and researchers. It provides over 2000 security tools organized into categories, such as vulnerability analysis, wireless attacks, web applications, exploitation, stress testing, forensics, and more. BlackArch Linux is available as an ISO image and can be installed on a system or run as a live environment.
 
 VM Targets :
 
