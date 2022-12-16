@@ -26,7 +26,7 @@ Oracle VM Virtual Box : https://www.virtualbox.org/wiki/Downloads
 
 
 
-# Advantages of using a Home Lab locali are :
+# The advantages of using a local Home Lab are :
 
 1. Cost-Effective: One of the main benefits of using a local VM home lab for ethical hacking is its cost-effectiveness. It is much cheaper to set up and maintain a home lab than to purchase and maintain expensive hardware and software.
 
