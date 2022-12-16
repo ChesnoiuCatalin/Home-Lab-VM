@@ -39,8 +39,11 @@ Oracle VM Virtual Box : https://www.virtualbox.org/wiki/Downloads
 5. Scalability: The lab can easily be expanded as needed to accommodate more machines or other components. This allows for the flexibility to experiment with different techniques and technologies.
 
 # My Personal Home Lab : 
-VM attacker
+
+VM attacker :
+
 Debian Linux :
+
 Kali Linux : https://www.kali.org/get-kali/
 Parrot OS : https://www.parrotsec.org/download/
 Ziion OS : https://www.ziion.org/
@@ -49,7 +52,8 @@ OSINT TraceLab : https://www.tracelabs.org/initiatives/osint-vm
 Arch Linux :
 Black Arch : https://blackarch.org/downloads.html
 
-Targets :
+VM Targets :
+
 windows 7 : https://www.softlay.com/downloads/windows-7-ultimate
 Windows 10 : https://www.microsoft.com/ro-ro/software-download/windows10ISO
 Windows Server 2019 : https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019
