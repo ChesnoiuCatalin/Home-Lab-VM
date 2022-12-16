@@ -98,3 +98,20 @@ Web Security Dojo : https://sourceforge.net/projects/websecuritydojo/
 
 # Wath I learn in the process
 
+Knowledgeable about OSINT best practices and protocols, such as the use of privacy settings, data protection, and online forensics. I use tools like : Maltego, Shodan, Google Dorks, TheHarvester, OpenVAS
+
+Ability to analyze and interpret network traffic using packet sniffers, such as Wireshark.
+
+Ability to quickly identify open ports and services using tools such as nmap, Nessus, and other port scanners.
+
+Network scanning using tools such as NMAP and Nessus can help identify potential vulnerabilities in a system. Once identified, these vulnerabilities can be patched or addressed to protect the system from potential security threats.
+
+Knowledgeable in Active Directory, group policies, and network protocols. I am using Windows Server 2019 and Windows 10 machines to learn more about Active Directory, how to administer a local network, and how to use this knowledge in a penetration test as an "attacker".
+
+
+Tools : Metasploit, TheFatRat,       Evil-Droid, REMCOS (Windows RAT)
+Virtualization : Oracle VM VirtualBox, QEMU/KVM
+Operating System: Windows, Linux(Kali, Parrot OS, Black Arch)
+Experience with Apache Tomcat and Flask server 
+Web tehnologies : HTML, CSS, JavaScript, XML
+Database : Oracle, MySQL, SQLyte , SQL queries
