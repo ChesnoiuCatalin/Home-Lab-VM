@@ -7,6 +7,7 @@ Tools :
 Debian Linux :
 Kali Linux : https://www.kali.org/get-kali/
 Parrot OS : https://www.parrotsec.org/download/
+Ziion OS : https://www.ziion.org/
 Dragon OS : https://sourceforge.net/projects/dragonos-focal/
 OSINT TraceLab : https://www.tracelabs.org/initiatives/osint-vm
 Arch Linux :
