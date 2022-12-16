@@ -38,7 +38,7 @@ Oracle VM Virtual Box : https://www.virtualbox.org/wiki/Downloads
 
 5. Scalability: The lab can easily be expanded as needed to accommodate more machines or other components. This allows for the flexibility to experiment with different techniques and technologies.
 
-# My Home Lab : 
+# My Personal Home Lab : 
 VM attacker
 Debian Linux :
 Kali Linux : https://www.kali.org/get-kali/
