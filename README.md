@@ -58,6 +58,8 @@ Black Arch : https://blackarch.org/downloads.html
 
 VM Targets :
 
+![Screenshot_21 (1)](https://user-images.githubusercontent.com/56380723/208122588-8009e811-b11d-4641-b4db-ee882d901126.png)
+
 windows 7 : https://www.softlay.com/downloads/windows-7-ultimate
 Windows 10 : https://www.microsoft.com/ro-ro/software-download/windows10ISO
 Windows Server 2019 : https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019
