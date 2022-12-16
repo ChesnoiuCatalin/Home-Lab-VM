@@ -122,11 +122,11 @@ Experienced in configuring and troubleshooting Apache Tomcat servers for web app
 
 For training on web application vulnerability and bug bounties, I use Metasploitable, ShellShock, Web Security Dojo, and OWASP Broken Web Application machine. Thanks to these virtual machines, I was able to discover how to exploit the following vulnerabilities: 
 
-  * SQL injection
-  * XSS injection
-  * HTML injection
+  * HTML Injection
+  * SQL Injection
+  * Cross-site scripting (XSS)
   * Man in the Midel Attack
   * Broken Access Control
   * Server-side Request Forgery
   * Identification and Authentication Failures
-  * 
+  * Sensitive Data Exposure
