@@ -98,29 +98,29 @@ Web Security Dojo : https://sourceforge.net/projects/websecuritydojo/
 
 # Wath I learn in the process
 
-Installed, configured and maintained Oracle VM VirtualBox in ethical hacking operations. And conducted penetration testing and vulnerability assessments using virtual machines.
+1. Installed, configured and maintained Oracle VM VirtualBox in ethical hacking operations. And conducted penetration testing and vulnerability assessments using virtual machines.
 
-I became familiar with different operating systems like Windows, Linux (Debian-based and Arch-based), and Android.
+2. I became familiar with different operating systems like Windows, Linux (Debian-based and Arch-based), and Android.
 
-Knowledgeable about OSINT best practices and protocols, such as the use of privacy settings, data protection, and online forensics. I use tools like : Maltego, Shodan, Google Dorks, TheHarvester, OpenVAS
+3. Knowledgeable about OSINT best practices and protocols, such as the use of privacy settings, data protection, and online forensics. I use tools like : Maltego, Shodan, Google Dorks, TheHarvester, OpenVAS
 
-Ability to analyze and interpret network traffic using packet sniffers, such as Wireshark.
+4. Ability to analyze and interpret network traffic using packet sniffers, such as Wireshark.
 
-Ability to quickly identify open ports and services using tools such as nmap, Nessus, and other port scanners.
+5. Ability to quickly identify open ports and services using tools such as nmap, Nessus, and other port scanners.
 
-Network scanning using tools such as NMAP and Nessus can help identify potential vulnerabilities in a system. Once identified, these vulnerabilities can be patched or addressed to protect the system from potential security threats.
+6. Network scanning using tools such as NMAP and Nessus can help identify potential vulnerabilities in a system. Once identified, these vulnerabilities can be patched or addressed to protect the system from potential security threats.
 
-Knowledgeable in Active Directory, group policies, and network protocols. To gain a better understanding of Active Directory, I use a Windows Server 2019 and a Windows 10 machine to learn how to administer a local network and how to apply this knowledge in a penetration test as an "attacker".
+7. Knowledgeable in Active Directory, group policies, and network protocols. To gain a better understanding of Active Directory, I use a Windows Server 2019 and a Windows 10 machine to learn how to administer a local network and how to apply this knowledge in a penetration test as an "attacker".
 
-I practice various attacks against Windows operating systems, such as EternalBlue and DoublePulsar, on both Windows 7 and Windows 10 machines.
+8. I practice various attacks against Windows operating systems, such as EternalBlue and DoublePulsar, on both Windows 7 and Windows 10 machines.
 
-I use frameworks like Metasploit, TheFatRat, Evil-Droid (for Android) and REMCOS (Windows RAT) to exploit the vulnerabilities of target machines by generating and setting payloads and malicious packets to launch attacks.
+9. I use frameworks like Metasploit, TheFatRat, Evil-Droid (for Android) and REMCOS (Windows RAT) to exploit the vulnerabilities of target machines by generating and setting payloads and malicious packets to launch attacks.
 
-I have learned how to embed malicious code into apps, images and other file types.
+10. I have learned how to embed malicious code into apps, images and other file types.
 
-Experienced in configuring and troubleshooting Apache Tomcat servers for web applications.
+11. Experienced in configuring and troubleshooting Apache Tomcat servers for web applications.
 
-For training on web application vulnerability and bug bounties, I use Metasploitable, ShellShock, Web Security Dojo, and OWASP Broken Web Application machine. Thanks to these virtual machines, I was able to discover how to exploit the following vulnerabilities: 
+12. For training on web application vulnerability and bug bounties, I use Metasploitable, ShellShock, Web Security Dojo, and OWASP Broken Web Application machine. Thanks to these virtual machines, I was able to discover how to exploit the following vulnerabilities: 
 
    * HTML Injection
    * SQL Injection
